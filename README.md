@@ -7,4 +7,4 @@ A Python tool to manage the MiniDX3 magnetic stripe reader from Deftun, made for
 
 # Dependencies
 - pywinusb
-  pip install pywinusb
+    pip install pywinusb
