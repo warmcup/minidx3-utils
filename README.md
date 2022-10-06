@@ -11,4 +11,4 @@ pywinusb:
 	pip install pywinusb
 
 # Usage
-	python minidx3-utils
+	python minidx3-utils.py
